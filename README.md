@@ -2,7 +2,7 @@
 - 👀 I’m interested in art, design and illustrations
 - 🌱 I’m currently learning ux design
 - 💞️ I’m looking to collaborate on anything creative
-- 📫 How to reach me sannt@proton.me
+- 📫 How to reach me thompsonsherry@proton.me
 
 <!---
 sherrythompson/sherrythompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
